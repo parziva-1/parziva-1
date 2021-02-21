@@ -10,7 +10,7 @@ https://torrocus.com/blog/special-github-repository/
 <details>
   <summary>Estadisticas</summary>
 
-  [![README Card](https://github-readme-stats.vercel.app/api?username=parzival-1&show_icons=true&hide=["stars"])](#)
+  [![README Card](https://github-readme-stats.vercel.app/api?username=parziva-1&show_icons=true&hide=["stars"])](#)
 </details>
 
 
