@@ -28,4 +28,4 @@ La parte de abajo es por mis experimentos.
 
 </details>
 
-👉 Lee mi [blog](https://parziva-1.ga/)
+👉 Lee mi [blog](https://dev-test.ga/)
