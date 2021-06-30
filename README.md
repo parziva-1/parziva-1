@@ -20,8 +20,8 @@ La parte de abajo es por mis experimentos.
 
 <details>
   <summary>Backend</summary>
-  JavaScript (Node.js)
-  Python (FastAPI)
+  - JavaScript (Node.js)
+  - Python (FastAPI)
   
 </details>
 
