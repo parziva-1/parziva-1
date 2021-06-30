@@ -19,10 +19,18 @@ La parte de abajo es por mis experimentos.
 </pre>
 
 <details>
-  <summary>Backend</summary>
-  * JavaScript (Node.js)
-  * Python (FastAPI)
-  
+<summary>Backend</summary>
+* JavaScript (Node.js)
+* Python (FastAPI)
+</details>
+
+<details>
+<summary>Shopping list</summary>
+
+* Vegetables
+* Fruits
+* Fish
+
 </details>
 
 👉 Lee mi [blog](https://dev-test.ga/)
