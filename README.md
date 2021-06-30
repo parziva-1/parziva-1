@@ -19,8 +19,10 @@ La parte de abajo es por mis experimentos.
 </pre>
 
 <details>
-  <summary>Testing</summary>
-
+  <summary>Backend</summary>
+  JavaScript (Node.js)
+  Python (FastAPI)
+  
 </details>
 
 👉 Lee mi [blog](https://dev-test.ga/)
