@@ -1,11 +1,6 @@
-<a href="https://parziva-1.ga/">
-<img src="https://raw.githubusercontent.com/torrocus/torrocus/master/unicorn.gif" width="100%">
-</a>
 
-¿Quieres saber como hacer algo similar a este perfil?
 
-Lee este articulo:
-https://torrocus.com/blog/special-github-repository/
+
 
 <details>
   <summary>Estadisticas</summary>
