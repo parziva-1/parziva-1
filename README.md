@@ -20,16 +20,9 @@ La parte de abajo es por mis experimentos.
 
 <details>
 <summary>Backend</summary>
+
 * JavaScript (Node.js)
 * Python (FastAPI)
-</details>
-
-<details>
-<summary>Shopping list</summary>
-
-* Vegetables
-* Fruits
-* Fish
 
 </details>
 
