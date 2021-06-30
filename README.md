@@ -26,18 +26,19 @@ La parte de abajo es por mis experimentos.
 
 </details>
 
+<details>
 <summary>SQL</summary>
 
 * MySQL
 
 </details>
 
+<details>
 <summary>Frontend</summary>
 
 * JavaScript vanilla
 * HTML
 * CSS
-* 
 </details>
 
 👉 Lee mi [blog](https://dev-test.ga/)
