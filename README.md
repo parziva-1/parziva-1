@@ -8,8 +8,6 @@
   [![README Card](https://github-readme-stats.vercel.app/api?username=parziva-1&show_icons=true&hide=["stars"])](#)
 </details>
 
-
-[![HitCount](https://hits.dwyl.com/parziva-1/parziva-1.svg)](#)
 ---
 
 La parte de abajo es por mis experimentos.
