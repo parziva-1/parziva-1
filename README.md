@@ -19,7 +19,7 @@
 </details>
 
 <details>
-<summary>SQL</summary>
+<summary>SQL/NoSQL</summary>
 
 * MySQL
 * MongoDB
