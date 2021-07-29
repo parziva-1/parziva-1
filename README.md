@@ -8,9 +8,6 @@
   [![README Card](https://github-readme-stats.vercel.app/api?username=parziva-1&show_icons=true&hide=["stars"])](#)
 </details>
 
----
-
-
 </pre>
 
 <details>
