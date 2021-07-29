@@ -33,4 +33,4 @@
 * CSS
 </details>
 
-👉 Lee mi [blog](https://dev-test.ga/)
+👉 Te invio a visitar mi [blog](https://dev-test.ga/)
