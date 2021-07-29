@@ -22,12 +22,14 @@
 <summary>SQL</summary>
 
 * MySQL
+* MongoDB
 
 </details>
 
 <details>
 <summary>Frontend</summary>
 
+* Reactjs
 * JavaScript vanilla
 * HTML
 * CSS
