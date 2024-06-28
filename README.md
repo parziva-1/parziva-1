@@ -35,13 +35,7 @@
 * CSS
 </details>
 
-👉 Te invio a visitar mi [blog](https://dev-test.ga/)
-
-
-<p align="left">
-  <a href="https://github.com/parziva-1"><img width="400" src="https://github-readme-stats.vercel.app/api?username=parziva-1&show_icons=true&theme=vision-friendly-dark">
-  <a href="https://github.com/parziva-1"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parziva-1&hide=html,scss,css, tsql&langs_count=10&layout=compact&theme=vision-friendly-dark">
-</p>
+👉 Te invio a visitar mi [blog](https://parziva-1.github.io/dev-test.ga/)
     
 ## My repos
     
